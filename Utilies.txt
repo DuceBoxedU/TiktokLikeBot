@@ -1,0 +1,3 @@
+Open File 
+Type "control + J" 
+Open file
